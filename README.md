@@ -1,2 +1,2 @@
-# silver-octo-guacamole
-An advanced phishing detection system utilizing ML algorithms like Support Vector Machine, Decision Tree, Gaussian Naïve Bayes, Random Forest, and k-Nearest Neighbors to analyze web content and safeguard users against cyber threats.
+# Phishing Website Detection Tool
+The tool harnesses the power of supervised machine learning to analyze and interpret the HTML elements of websites, distinguishing between legitimate and malicious sites with remarkable accuracy. Utilizing a suite of algorithms—Support Vector Machine, Decision Tree, Gaussian Naïve Bayes, Random Forest, and k-Nearest Neighbors—it stands as a sentinel against the ever-evolving tactics of cyber fraudsters.
